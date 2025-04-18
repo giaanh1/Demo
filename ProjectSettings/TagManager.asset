@@ -10,6 +10,9 @@ TagManager:
   - Ground
   - Coin
   - Obstacle
+  - StartGameButton
+  - VolumeSlider
+  - BackToMenuButton
   layers:
   - Default
   - TransparentFX
